@@ -1,4 +1,10 @@
-
+:root{
+    --cor-primaria:#000345;
+--cor-secundaria:#022D65;
+--cor-fundo:#083B89;
+--cor-texto:#006ACE;
+--cor-contraste:#77B4C1;
+}
 header{
 background-color: #0a79f0;
 color: white;
